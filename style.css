@@ -216,7 +216,7 @@ display: flex;
 align-items: center;
 justify-content: center;
 flex-flow: column;
-background: url(home5.jpg) no-repeat;
+background: url(/image/home5.jpg) no-repeat;
 background-size: cover;
 background-attachment: fixed;
 position: relative;
